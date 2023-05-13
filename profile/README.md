@@ -1,12 +1,5 @@
-## Hi there 👋
+## Woowa Backend 👋
 
-<!--
+백엔드 개발에 있어 꼭 필요한 개념들을 학습하고 이를 통해 성장하기 위해 만든 organization입니다.
+각 Repo별로 학습 기간은 최대 2개월이며, 모든 학습 내용은 ReadMe에 링크를 달아두어 많은 사람들이 확인하실 수 있습니다.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
